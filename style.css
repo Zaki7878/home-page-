@@ -1,0 +1,55 @@
+/* *{
+    display:flex;
+    flex-wrap: wrap;
+    align-self: flex-start;
+
+}
+  */
+ li{
+   display: inline-block;
+}
+ a{
+    text-decoration: none;
+    color: rgb(31, 67, 100);
+} 
+a:hover{
+color: aquamarine;
+}   
+h6{
+    background-color: blue;
+    font-size: 1em;
+} 
+ h3{
+    position:absolute;
+    top: 94px;
+    left: 900px;
+    word-spacing: 2em;
+    font-size: 1.5em; 
+} 
+ /* div{
+    background-color: antiquewhite;
+    border: 10px solid rebeccapurple; 
+
+} */
+  div{
+position:absolute;
+top: 785px;
+left: 500px;
+    width: 30em;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    color: brown;
+    text-shadow: 10px 10px 9px  brown; 
+}
+div.container{
+    border: 23px salmon;
+    background-color: aqua;
+    width: 94em;
+    height: 10em;
+    position: absolute;
+    top: 1085px;
+    left: 10px;
+    
+} 
